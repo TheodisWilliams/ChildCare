@@ -1,0 +1,95 @@
+/*Menu*/
+.navbar{
+    background-color: #ffe0ac;
+}
+#home{
+    padding-bottom: 50px;
+}
+
+/*car*/
+.carousel_photo{
+    width: 100%;
+    
+}
+
+/*info_slider*/
+.info_photo{
+    width: 50%;
+    height: 50%;
+}
+.info_slider{
+    width: 50%;
+    height: 50%;
+}
+
+/*Inner Area*/
+.service_title{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+
+.inner_area{
+   
+   background-color: #ffacb7;
+   padding: 10px;
+}
+.inner_photos{
+    width:100%;
+    height: 75%;
+    border-style: solid;
+    border-width: 15px;
+    
+
+}
+.inner_text{
+    text-align: center;
+    font-weight: 200;
+}
+
+
+
+/*About*/
+#about{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.about-title{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.our_facilty{
+    text-align: center;
+}
+.our_philosphy{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+/*Our Fac*/
+.staff{
+    padding-bottom: 50px;
+}
+.head_shot{
+    width: 100%;
+    height: 50%;
+    border-top-style: solid;
+    border-bottom: solid;
+    border-width: 10px;
+    border-radius:10px;
+}
+.staff_title{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.girl_photo{
+    
+}
+
+
+/*Tuitiom List*/
+.tuition_list{
+    list-style-type: none;
+}
