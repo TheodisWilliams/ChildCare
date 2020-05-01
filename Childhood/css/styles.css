@@ -72,6 +72,9 @@
 .staff{
     padding-bottom: 50px;
 }
+.staff_info{
+    text-align: center;
+}
 .head_shot{
     width: 100%;
     height: 50%;
@@ -84,6 +87,10 @@
     text-align: center;
     padding-bottom: 50px;
 }
+.inner_info{
+    text-align: center;
+
+}
 .girl_photo{
     
 }
@@ -92,4 +99,33 @@
 /*Tuitiom List*/
 .tuition_list{
     list-style-type: none;
+    text-align: center;
+}
+.tuition_title{
+    text-align: center;
+}
+.button1{
+    margin-left: 30px; 
+}
+.tuition_plan{
+    text-align: center;
+}
+#tuition{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+/*Contact*/
+#contact{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.contact_us{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+/*Footer*/
+.foot_note{
+    text-align: center;
+    padding-top: 50px;
 }
